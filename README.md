@@ -1,8 +1,8 @@
 
 # Campus Recruitment Command Center
----
 
-### **Project Title: "Campus Recruitment Command Center - An Integrated System for Student Placements & Corporate Relations"**
+
+## **Project Title: "Campus Recruitment Command Center - An Integrated System for Student Placements & Corporate Relations"**
 
 **Industry:** Higher Education
 
